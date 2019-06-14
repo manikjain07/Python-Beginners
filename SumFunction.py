@@ -1,6 +1,6 @@
 def main():
-    number1 = int(input("Enter a Number: "))
-    number2 = int(input("Enter another Number: "))
+    number1 = input("Enter a Number: ")
+    number2 = input("Enter another Number: ")
     sum(number1,number2)
 
 def sum(number1,number2):
